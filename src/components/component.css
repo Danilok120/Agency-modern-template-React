@@ -1,0 +1,13 @@
+.app-component-container {
+  display: flex;
+  position: relative;
+}
+.app-component-video {
+  flex: 1;
+  width: 695px;
+  height: 1036px;
+  align-self: flex-start;
+}
+.app-component-root-class-name {
+  align-self: flex-start;
+}
